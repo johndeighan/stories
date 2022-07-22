@@ -1,0 +1,70 @@
+# Translator.test.coffee
+
+import {UnitTester, UnitTesterNorm} from '@jdeighan/unit-tester'
+import {undef} from '@jdeighan/coffee-utils'
+import {setDebugging} from '@jdeighan/coffee-utils/debug'
+import {LOG} from '@jdeighan/coffee-utils/log'
+import {mydir, mkpath} from '@jdeighan/coffee-utils/fs'
+
+import {Translator, splitKey} from '@jdeighan/stories/trans'
+
+dir = mydir(import.meta.url)
+simple = new UnitTester()
+
+# ---------------------------------------------------------------------------
+
+simple.equal 16, splitKey("die"),
+		['die']
+
+simple.equal 19, splitKey("die/v"),
+		['die','die/v']
+
+simple.equal 22, splitKey("die(s)"),
+		['die','dies']
+
+simple.equal 25, splitKey("die(s)/v"),
+		['die','die/v','dies','dies/v']
+
+simple.equal 28, splitKey("die(--ying)/v"),
+		['die','die/v','dying','dying/v']
+
+simple.equal 31, splitKey("die(s)(d)(--ying)/v"),
+		['die','die/v','dies','dies/v','died','died/v','dying','dying/v']
+
+simple.equal 34, splitKey("admire(d)(-ing)"),
+		['admire','admired','admiring']
+
+# ---------------------------------------------------------------------------
+
+trans = new Translator(mkpath(dir, 'dictionary.taml'))
+
+simple.equal 43, trans.hDict, {
+	'admire': '欣赏 xīn shǎng'
+	'admired': '欣赏 xīn shǎng'
+	'admiring': '欣赏 xīn shǎng'
+	'attic': '阁楼 gé lóu'
+	'square': '广场 guǎng chǎng'
+	'square/n': '广场 guǎng chǎng'
+	'squares': '广场 guǎng chǎng'
+	'squares/n': '广场 guǎng chǎng'
+	'square/adj': '正方形 zhèngfāngxíng'
+	}
+
+# ---------------------------------------------------------------------------
+
+class DictionaryTester extends UnitTester
+
+	constructor: () ->
+		super()
+		@dict = new Translator(mkpath(dir, 'dictionary.taml'))
+
+	transformValue: (sent) ->
+		return @dict.findWords(sent)
+
+tester = new DictionaryTester()
+
+# ---------------------------------------------------------------------------
+
+tester.equal 70, "in the attic", [
+	['attic', '阁楼 gé lóu', 7, 12]
+	]

@@ -1,0 +1,228 @@
+---
+title:
+	en: The Story of the Fisherman and the Goldfish
+	zh: 渔夫和金鱼的故事
+	pinyin: Yúfū hé jīnyú de gùshì
+author:
+	en: Alexander Pushkin
+lCharacters:
+	-
+		en: The Fisherman
+		zh: 渔夫
+		pinyin: Yúfū
+	-
+		en: The Goldfish
+		zh: 金鱼
+		pinyin: jīnyú
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: Long ago, a fisherman and his wife lived in a dilapidated old cabin by the seaside.
+			zh: 很久以前, 海边一座破旧的小屋子里住着一个渔夫和他的妻子.
+			pinyin: Hěnjiǔ yǐqián, hǎibiān yīzuò pòjiù de xiǎo wū lǐ zhùzhe yīgè yúfū hé tā de qīzi.
+		-
+			en: The fisherman went fishing every day.
+			zh: 渔夫每天都出去打鱼.
+			pinyin: Yúfū měitiān dū chūqù dǎ yú.
+			lPhrases:
+				-
+					en: went fishing
+					zh: 钓鱼
+					pinyin: diào yú
+				-
+					en: every day
+					zh: 每天
+					pinyin: měitiān
+	-
+		lSentences:
+		-
+			en: One time, the fisherman caught a big goldfish.
+			zh: 有一次, 渔夫钓到了条很大的金鱼.
+			pinyin: Yǒu yīcì, yúfū diào dàole yītiáo hěn dà de jīnyú.
+			lPhrases:
+				-
+					en: caught
+					zh: 钓到了
+					pinyin: diào dào le
+		-
+			en: The goldfish said to him: "I beg you to let me go."
+			zh: 金鱼对他说: "我求你放我走."
+			pinyin: Jīnyú duì tā shuō: "Wǒ qiú nǐ fàng wǒ zǒu."
+			lPhrases:
+				-
+					en: let me go
+					zh: 放我走
+					pinyin: fàng wǒ zǒu
+		-
+			en: "I can fulfill any request."
+			zh: 我可以满足你的任何请求."
+			pinyin: "Wǒ kěyǐ mǎnzú nǐ de rènhé qǐngqiú."
+		-
+			en: So he put the goldfish back into the sea.
+			zh: 所以他把金鱼放回了大海.
+			pinyin: Suǒyǐ tā bǎ jīnyú fàng huíle dàhǎi.
+			lPhrases:
+				-
+					en: put the goldfish back
+					zh: 把金鱼放回去
+					pinyin: bǎ jīnyú fàng huíqù
+	-
+		lSentences:
+		-
+			en: The fisherman returned to the old house.
+			zh: 渔夫回到破旧的小屋.
+			pinyin: Yúfū huí dào pòjiù de xiǎowū.
+		-
+			en: His wife asked him why he didn't catch a fish.
+			zh: 他的妻子问他为什么一条鱼也没捕到.
+			pinyin: Tā de qīzi wèn tā wèishéme yītiáo yú yě méi bǔ dào.
+			lPhrases:
+				-
+					en: catch a fish
+					zh: 抓鱼
+					pinyin: zhuā yú
+		-
+			en: The fisherman told her about the goldfish.
+			zh: 渔夫就把他遇到金鱼的事情说了.
+			pinyin: Yúfū jiù bǎ tā yù dào jīnyú de shìqíng shuōle.
+		-
+			en: His wife forced him to ask the goldfish for a new house.
+			zh: 他的妻子强迫他向金鱼要新房子。
+			pinyin: Tā de qīzi qiǎngpò tā xiàng jīnyú yào xīn fángzi.
+			lPhrases:
+				-
+					en: ask the goldfish for
+					zh: 向金鱼索要
+					pinyin: xiàng jīnyú suǒyào
+	-
+		lSentences:
+		-
+			en: The fisherman was reluctant, but he didn't want to defy his wife, so he went to the seaside.
+			zh: 渔夫不太情愿, 但不想违抗他的妻子, 只好去了海边.
+			pinyin: Yúfū bù tài qíngyuàn, dàn bùxiǎng wéikàng tā de qīzi, zhǐhǎo qùle hǎibiān.
+		-
+			en: The fisherman told the goldfish his wife's request, and the goldfish agreed.
+			zh: 渔夫说出了妻子的要求, 金鱼答应了.
+			pinyin: Yúfū shuō chūle qīzi de yāoqiú, jīnyú dāyìngle.
+	-
+		lSentences:
+		-
+			en: When the fisherman came back, he found that the original ruined house was gone, replaced by a new house.
+			zh: 渔夫回来后, 发现原来的破屋子不见了, 取而代之的是一间新房子.
+			pinyin: Yúfū huílái hòu, fāxiàn yuánlái de pò wūzi bùjiànle, qǔ'érdàizhī dì shì yī jiàn xīn fángzi.
+		-
+			en: His wife was admiring the things in the house.
+			zh: 他的妻子正在欣赏着房子里的东西.
+			pinyin: Tā de qīzi zhèngzài xīnshǎngzhe fángzi lǐ de dōngxī.
+	-
+		lSentences:
+		-
+			en: Two weeks passed.
+			zh: 两个星期过去了.
+			pinyin: Liǎng gè xīngqí guòqùle.
+		-
+			en: The fisherman's wife was not satisfied.
+			zh: 渔夫的妻子不满意。
+			pinyin: Yúfū de qīzi bù mǎnyì.
+		-
+			en: She told the fisherman to ask the goldfish for a villa.
+			zh: 她让渔夫向金鱼要一栋别墅。
+			pinyin: Tā ràng yúfū xiàng jīnyú yào yī dòng biéshù.
+		-
+			en: The fisherman went helplessly.
+			zh: 渔夫无奈地去了.
+			pinyin: Yúfū wúnài de qùle.
+	-
+		lSentences:
+		-
+			en: The fisherman came to the seaside and asked the goldfish for a villa.
+			zh: 渔夫来到海边, 向金鱼提出了要别墅的要求.
+			pinyin: Yúfū lái dào hǎibiān, xiàng jīnyú tíchūle yào biéshù de yāoqiú.
+		-
+			en: When the fisherman came home, he saw a villa.
+			zh: 当渔夫回家时, 看到了一间别墅.
+			pinyin: Dāng yúfū huí jiā shí, kàn dàole yī jiàn biéshù.
+	-
+		lSentences:
+		-
+			en: Everything was fine.
+			zh: 一切都很好.
+			pinyin: Yīqiè dōu hěn hǎo.
+		-
+			en: But after a week, the wife said, "This villa is too small for us."
+			zh: 但一周后，妻子说：“这栋别墅对我们来说太小了。”
+			pinyin: Dàn yīzhōu hòu, qīzi shuō:“Zhè dòng biéshù duì wǒmen lái shuō tài xiǎole.”
+		-
+			en: "I want to live in a big stone castle."
+			zh: "我想住在一座石头建的大城堡里."
+			pinyin: "Wǒ xiǎng zhù zài yīzuò shítou jiàn de dà chéngbǎo lǐ."
+	-
+		lSentences:
+		-
+			en: The fisherman was sad, but he still went to the seaside to find the goldfish.
+			zh: 渔夫的心情很沉重, 然而他还是去海边找了金鱼.
+			pinyin: Yúfū de xīnqíng hěn chénzhòng, rán'ér tā háishì qù hǎibiān zhǎole jīnyú.
+		-
+			en: The goldfish agreed to his request again.
+			zh: 金鱼又答应了他的请求.
+			pinyin: Jīnyú yòu dāyìngle tā de qǐngqiú.
+	-
+		lSentences:
+		-
+			en: The fisherman returned home.
+			zh: 渔夫回到家.
+			pinyin: Yúfū huí dàojiā.
+		-
+			en: The villa was transformed into a majestic stone palace.
+			zh: 别墅被改造成一座雄伟的石头宫殿。
+			pinyin: Biéshù bèi gǎizào chéng yīzuò xióngwěi de shítou gōngdiàn.
+		-
+			en: His wife was sitting on a gorgeous throne.
+			zh: 他的妻子正坐在华丽的王位上.
+			pinyin: Tā de qīzi zhèng zuò zài huálì de wángwèi shàng.
+	-
+		lSentences:
+		-
+			en: The next morning at dawn, the wife yelled and yelled at the fisherman: "I want to be equal with God!"
+			zh: 第二天天刚蒙蒙亮的时候, 妻子对渔夫又喊又叫: "我要与上帝平起平坐!"
+			pinyin: Dì èr tiāntiān gāng méngméngliàng de shíhòu, qīzi duì yúfū yòu hǎn yòu jiào: "Wǒ yào yǔ shàngdì píngqǐpíngzuò!"
+	-
+		lSentences:
+		-
+			en: The fisherman was afraid, he quickly put on his clothes and ran out.
+			zh: 渔夫吓坏了, 他胡乱穿起衣服就跑了出去.
+			pinyin: Yúfū xià huàile, tā húluàn chuān qǐ yīfú jiù pǎole chūqù.
+	-
+		lSentences:
+		-
+			en: A strong wind blew over the land.
+			lPhrases:
+				-
+					en: wind blew
+					zh: 风吹过
+					pinyin: fēng chuī guò
+			zh: 一阵强风吹过大地。
+			pinyin: Yīzhèn qiángfēng chuī guo dàdì.
+		-
+			en: Waves beat the shoreline.
+			zh: 海浪拍打着海岸线。
+			pinyin: Hǎilàng pāidǎzhe hǎi'ànxiàn.
+		-
+			en: The fisherman told the goldfish his wife's request.
+			zh: 渔夫向金鱼说出了妻子的愿望.
+			pinyin: Yúfū xiàng jīnyú shuō chūle qīzi de yuànwàng.
+		-
+			en: The goldfish said: "Go back home."
+			zh: 金鱼说: "你回去吧."
+			pinyin: Jīnyú shuō: "Nǐ huíqù ba."
+	-
+		lSentences:
+		-
+			en: The fishermen went back home and saw their old house.
+			zh: 渔夫走回家, 看见的却是他们以前的破屋子.
+			pinyin: Yúfū zǒu huí jiā, kànjiàn de què shì tāmen yǐqián de pò wūzi.
+		-
+			en: His wife was holding a broken wooden tub.
+			zh: 他的妻子正抱着一个破木盆.
+			pinyin: Tā de qīzi zhèng bàozhe yīgè pò mù pén.

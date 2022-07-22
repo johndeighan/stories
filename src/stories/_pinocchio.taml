@@ -1,0 +1,268 @@
+---
+title:
+	en: Pinocchio
+	zh: 匹诺曹
+	pinyin: Pǐ nuò cáo
+author:
+	en: Carlo Collodi
+lCharacters:
+	-
+		en: Pinocchio
+		zh: 匹诺曹
+		pinyin: pǐ nuò cáo
+	-
+		en: Antonio
+		zh: 安东尼奥
+		pinyin: Āndōngní'ào
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: Antonio was a carpenter.
+			zh: 安东尼奥是个木匠.
+			pinyin: āndōngní'ào shìgè mùjiàng.
+		-
+			en: One day, he found a piece of wood and made a puppet boy.
+			zh: 有一天, 他找到了一块木头, 做了一个木偶男孩.
+			pinyin: yǒu yītiān, tā zhǎodàole yīkuài mùtou, zuòle yīgè mù'ǒu nánhái.
+			lPhrases:
+				-
+					en: piece of wood
+					zh: 一块木头
+					pinyin: yīkuài mùtou
+	-
+		lSentences:
+		-
+			en: When the carpenter drew the eyes, nose and mouth of the puppet, the puppet began to blink.
+			zh: 当木匠给木偶画上眼睛, 鼻子和嘴巴时, 木偶开始眨眼了.
+			pinyin: dāng mùjiàng gěi mù'ǒu huà shàng yǎnjīng, bízi hé zuǐbā shí, mù'ǒu kāishǐ zhǎyǎnle.
+	-
+		lSentences:
+		-
+			en: The carpenter named the puppet "Pinocchio".
+			zh: 木匠给小木偶取名 "匹诺曹".
+			pinyin: mùjiàng gěi xiǎo mù'ǒu qǔ míng "pǐ nuò cáo".
+		-
+			en: Pinocchio learned to walk, and he bounced out of the house.
+			zh: 匹诺曹学会了走路，然后他跳出了屋子。
+			pinyin: Pǐ nuò cáo xuéhuìle zǒulù, ránhòu tā tiàochūle wūzi.
+			lPhrases:
+				-
+					en: bounced out of the house
+					zh: 跳出了屋子
+					pinyin: tiàochūle wūzi
+		-
+			en: The police believed Pinocchio's lie/n and put the carpenter in jail.
+			zh: 警察相信了匹诺曹的谎言, 把木匠关进了监狱.
+			pinyin: jǐngchá xiāng xìnle pǐ nuò cáo de huǎngyán, bǎ mùjiàng guān jìnle jiānyù.
+	-
+		lSentences:
+		-
+			en: Pinocchio ran outside to wait for the carpenter.
+			zh: 匹诺曹跑到外面等木匠.
+			pinyin: pǐ nuò cáo pǎo dào wàimiàn děng mùjiàng.
+		-
+			en: Pinocchio got drenched in the rain.
+			zh: 皮诺曹被雨淋湿了。
+			pinyin: Pí nuò cáo bèi yǔ lín shīle.
+			lPhrases:
+				-
+					en: got drenched
+					zh: 淋湿了
+					pinyin: lín shīle
+		-
+			en: He went home and warmed himself by the stove.
+			zh: 淋了雨, 回到家在火炉边取暖.
+			pinyin: tā huí dàojiā zài huǒ lú biān qǔ nuǎn.
+			lPhrases:
+				-
+					en: warmed himself
+					zh: 取暖
+					pinyin: qǔ nuǎn
+		-
+			en: He carelessly burned his feet.
+			zh: 他不小心烧伤了脚。
+			pinyin: Tā bù xiǎoxīn shāoshāngle jiǎo.
+	-
+		lSentences:
+		-
+			en: At sunrise, the carpenter came back.
+			zh: 日出的时候，木匠回来了。
+			pinyin: Rì chū de shíhòu, mùjiàng huíláile.
+		-
+			en: He fixed Pinocchio's feet and bought him books to learn to read.
+			zh: 他给匹诺曹修好了脚并给他买了学习阅读的书.
+			pinyin: tā gěi pǐ nuò cáo xiūhǎole jiǎo bìng gěi tā mǎile xuéxí yuèdú de shū.
+	-
+		lSentences:
+		-
+			en: Pinocchio ran into a circus on the way to school.
+			zh: 皮诺曹在去学校的路上遇到了一个马戏团。
+			pinyin: Pí nuò cáo zài qù xuéxiào de lùshàng yù dàole yīgè mǎxì tuán.
+			lPhrases:
+				-
+					en: ran into
+					zh: 遇到了
+					pinyin: yù dào le
+				-
+					en: on the way
+					zh: 路上
+					pinyin: lùshàng
+		-
+			en: But he didn't have the money to buy tickets.
+			zh: 但是他没有钱买票.
+			pinyin: Dànshì tā méiyǒu qián mǎi piào.
+			lPhrases:
+				-
+					en: didn't have
+					zh: 没有
+					pinyin: méiyǒu
+		-
+			en: So, he sold his books and bought a ticket.
+			zh: 所以他卖了他的书, 买了一张票.
+			pinyin: suǒ yǐ tā màile tā de shū, mǎile yī zhāng piào.
+	-
+		lSentences:
+		-
+			en: The puppets in the theater carried Pinocchio onto the stage.
+			zh: 剧院里的木偶把匹诺曹抬上舞台.
+			pinyin: jùyuàn lǐ de mù'ǒu bǎ pǐ nuò cáo tái shàng wǔtái.
+			lPhrases:
+				-
+					en: carried
+					zh: 抱着
+					pinyin: bàozhe
+		-
+			en: The audience was very pleased.
+			zh: 观众非常高兴。
+			pinyin: Guānzhòng fēicháng gāoxìng.
+		-
+			en: The theater boss gave Pinocchio five gold coins for his performance.
+			zh: 剧院老板给了匹诺曹五枚金币作为他的表演。
+			pinyin: Jùyuàn lǎobǎn gěile pǐ nuò cáo wǔ méi jīnbì zuòwéi tā de biǎoyǎn.
+			lPhrases:
+				-
+					en: gold coins
+					zh: 金币
+					pinyin: jīnbì
+	-
+		lSentences:
+		-
+			en: A fox and a wild cat tricked Pinocchio and took his gold coins.
+			zh: 一只狐狸和一只野猫哄骗了匹诺曹，拿走了他的金币。
+			pinyin: Yī zhī húlí hé yī zhī yěmāo hǒngpiànle pǐ nuò cáo, ná zǒule tā de jīnbì.
+			lPhrases:
+				-
+					en: wild cat
+					zh: 野猫
+					pinyin: yěmāo
+				-
+					en: took
+					zh: 拿走了
+					pinyin: ná zǒule
+				-
+					en: gold coins
+					zh: 金币
+					pinyin: jīnbì
+	-
+		lSentences:
+		-
+			en: A fairy rescued Pinocchio, but he lied/v and his nose became very long.
+			zh: 一个仙女拯救了匹诺曹, 但是他说了谎, 鼻子变成了很长.
+			pinyin: yīgè xiānnǚ zhěngjiùle pǐ nuò cáo, dànshì tā shuōle huǎng, bízi biàn chéng le hěn cháng.
+	-
+		lSentences:
+		-
+			en: Pinocchio begged the fairy for forgiveness.
+			zh: 匹诺曹乞求仙女原谅.
+			pinyin: pǐ nuò cáo qǐqiú xiānnǚ yuánliàng.
+		-
+			en: The fairy asked the woodpecker to restore Pinocchio's nose.
+			zh: 仙女让啄木鸟恢复皮诺曹的鼻子。
+			pinyin: Xiānnǚ ràng zhuómùniǎo huīfù pí nuò cáo de bízi.
+	-
+		lSentences:
+		-
+			en: On the way home, Pinocchio followed a group of children to the circus.
+			zh: 在回家的路上, 匹诺曹跟随一群孩子去了马戏团.
+			pinyin: zài huí jiā de lùshàng, pǐ nuò cáo gēnsuí yīqún háizi qùle mǎxì tuán.
+			lPhrases:
+				-
+					en: on the way home
+					zh: 在回家的路上
+					pinyin: zài huí jiā de lùshàng
+				-
+					en: a group of children
+					zh: 一群孩子
+					pinyin: yīqún háizi
+	-
+		lSentences:
+		-
+			en: Pinocchio and his companions were turned into donkeys, and they were sold to the circus.
+			zh: 匹诺曹和同伴们被变成了驴子, 他们被卖到了马戏团.
+			pinyin: pǐ nuò cáo hé tóngbànmen bèi biàn chéngle lǘzi, tāmen bèi mài dàole mǎxì tuán.
+			lPhrases:
+				-
+					en: turned into
+					zh: 变成了
+					pinyin: biàn chéngle
+	-
+		lSentences:
+		-
+			en: Pinocchio broke his leg while training to jump through the fire ring.
+			zh: 匹诺曹在训练跳过火圈的时候摔断了腿.
+			pinyin: pǐ nuò cáo zài xùnliàn tiàoguò huǒ quān de shíhòu shuāi duànle tuǐ.
+			lPhrases:
+				-
+					en: jump through
+					zh: 跳过
+					pinyin: tiàoguò
+				-
+					en: fire ring
+					zh: 火圈
+					pinyin: huǒ quān
+				-
+					en: broke his leg
+					zh: 摔断了腿
+					pinyin: shuāi duànle tuǐ
+		-
+			en: The circus boss threw him into the sea.
+			zh: 马戏团老板把他扔进海里。
+			pinyin: Mǎxì tuán lǎobǎn bǎ tā rēng jìn hǎilǐ.
+			lPhrases:
+				-
+					en: threw him into the sea
+					zh: 扔进海里
+					pinyin: rēng jìn hǎilǐ
+	-
+		lSentences:
+		-
+			en: A shark swallowed/v Pinocchio into his stomach.
+			zh: 鲨鱼吧匹诺曹吞下了肚子里.
+			pinyin: Shāyú ba pǐ nuò cáo tūn xiàle dùzi lǐ.
+		-
+			en: There he ran into the old carpenter.
+			zh: 在那里他遇到了老木匠.
+			pinyin: Zài nàlǐ tā yù dàole lǎo mùjiàng.
+		-
+			en: They escaped while the shark was yawning.
+			zh: 他们在鲨鱼打哈欠的时候逃脱了。
+			pinyin: Tāmen zài shāyú dǎ hāqian de shíhòu táotuōle.
+		-
+			en: From then on, Pinocchio became very diligent.
+			zh: 从此, 匹诺曹变成勤奋了.
+			pinyin: Cóngcǐ, pǐ nuò cáo biànchéng qínfènle.
+			lPhrases:
+				-
+					en: from then on
+					zh: 从此
+					pinyin: cóngcǐ
+		-
+			en: The carpenter and Pinocchio lived a happy life together.
+			zh: 木匠和匹诺曹过着幸福的生活。
+			pinyin: Mùjiàng hé pǐ nuò cáo guòzhe xìngfú de shēnghuó.
+			lPhrases:
+				-
+					en: happy life
+					zh: 幸福的生活
+					pinyin: xìngfú de shēnghuó

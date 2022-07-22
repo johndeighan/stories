@@ -1,0 +1,283 @@
+---
+title:
+	en: The Wizard of Oz
+	zh: 绿野仙踪
+	pinyin: lǜ yě xiān zōng
+author:
+	en: L. Frank Baum
+lCharacters:
+	-
+		en: Dorothy
+		zh: 多萝茜
+		pinyin: duō luó xī
+	-
+		en: Toto
+		zh: 托托
+		pinyin: tuō tuō
+	-
+		en: Oz
+		zh: 奥兹
+		pinyin: ào zī
+	-
+		en: Scarecrow
+		zh: 稻草人
+		pinyin: dàocǎorén
+	-
+		en: Tin Man
+		zh: 铁皮人
+		pinyin: tiěpí rén
+	-
+		en: Cowardly Lion
+		zh: 胆小的狮子
+		pinyin: dǎn xiǎo de shīzi
+	-
+		en: Wicked Witch of the East
+		zh: 东方的恶巫婆
+		pinyin: dōngfāng de è wū pó
+	-
+		en: Good Witch of the North
+		zh: 北方的好巫婆
+		pinyin: běifāng de hǎo wū pó
+	-
+		en: Wicked Witch of the West
+		zh: 西方的恶巫婆
+		pinyin: xīfāng de è wū pó
+	-
+		en: Good Witch of the South
+		zh: 南方的好巫婆
+		pinyin: nánfāng de hǎo wū pó
+	-
+		en: Munchkinland
+		zh: 芒奇金国
+		pinyin: Máng qí jīn guó
+	-
+		en: Emerald City
+		zh: 翡翠城
+		pinyin: Fěicuì chéng
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: There once was a girl named Dorothy.
+			zh: 从前有个小姑娘叫多萝茜.
+			pinyin: cóngqián yǒu gè xiǎo gūniáng jiào duō luó xī.
+		-
+			en: She lived in the prarie in Kansas with her uncle and aunt.
+			zh: 她和叔叔婶婶住在堪萨斯州的大草原上。
+			pinyin: Tā hé shūshu shěnshen zhù zài kānsàsī zhōu de dà cǎoyuán shàng.
+		-
+			en: One day, a tornado brought Dorothy, her dog Toto and her wooden cabin together to the sky.
+			zh: 一天，一场龙卷风把多萝西、她的狗托托和她的木屋一起带到了天空.
+			pinyin: Yītiān, yī chǎng lóngjuǎnfēng bǎ duō luó xī, tā de gǒu tuō tuō hé tā de mùwū yīqǐ dài dàole tiānkōng.
+	-
+		lSentences:
+		-
+			en: The tornado brought Dorothy to Munchkinland.
+			zh: 龙卷风把多萝茜带到了芒奇金国.
+			pinyin: lóng juǎn fēng bǎ duō luó xī dài dàole Máng qí jīn guó.
+		-
+			en: Her cabin crushed the Wicked Witch of the East when it landed/v.
+			zh: 她的小木屋降落的时候压死了东方恶巫婆.
+			pinyin: tā de xiǎo mùwū jiàngluò de shíhòu yā sǐle dōngfāng è wū pó.
+		-
+			en: She had freed the local people.
+			zh: 她解放了当地人。
+			pinyin: Tā jiě fàng liǎo dàng dì rén.
+			lPhrases:
+				-
+					en: local people
+					zh: 当地人
+					pinyin: dàng dì rén
+		-
+			en: So the Good Witch of the North gave her a pair of magic silver shoes.
+			zh: 所以，北方的好巫婆给了她一双魔法银鞋子。
+			pinyin: Suǒyǐ, běifāng de hǎo wū pó gěile tā yīshuāng mófǎ yín xiézi.
+	-
+		lSentences:
+		-
+			en: Dorothy asked, "Can you take me home?"
+			zh: 多萝茜问 :" 您能带我回家吗?"
+			pinyin: duō luó xī wèn:" Nín néng dài wǒ huí jiā ma?"
+		-
+			en: The good witch said: "Follow this yellow brick road to the Emerald City and Oz will help you."
+			zh: 善良的巫婆说：“沿着这条黄砖路去翡翠城，奥兹会帮助你。”
+			pinyin: Shànliáng de wūpó shuō: “Yánzhe zhè tiáo huáng zhuān lù qù fěicuì chéng, ào zī huì bāngzhù nǐ.”
+			lPhrases:
+				-
+					en: follow
+					zh: 顺着
+					pinyin: yán zhe
+		-
+			en: Dorothy and Toto hit the road.
+			zh: 多萝西和托托上路了。
+			pinyin: Duō luó xī hé tuō tuō shànglùle.
+			lPhrases:
+				-
+					en: hit the road
+					zh: 上路了
+					pinyin: shànglùle
+	-
+		lSentences:
+		-
+			en: On the way, Dorothy met a scarecrow who wanted a brain, a tin man who wanted a heart, and a cowardly lion who wanted courage.
+			zh: 路上, 多萝茜遇到了一个想要脑子的稻草人, 一个想要心的铁皮人和一只想要勇气的胆小狮子.
+			pinyin: lùshàng, duō luó xī yù dàole yīgè xiǎng yào nǎozi de dàocǎorén, yīgè xiǎng yào xīn de tiěpí rén hé yī zhī xiǎng yào yǒngqì de dǎn xiǎo shīzi.
+			lPhrases:
+				-
+					en: on the way
+					zh: 路上
+					pinyin: lùshàng
+				-
+					en: met
+					zh: 遇到了
+					pinyin: yù dàole
+				-
+					en: tin man
+					zh: 铁皮人
+					pinyin: tiěpí rén
+	-
+		lSentences:
+		-
+			en: They came to the Emerald City.
+			zh: 他们来到了翡翠城。
+			pinyin: Tāmen lái dàole fěicuì chéng.
+		-
+			en: They were fascinated by this beautiful city as soon as they entered the city.
+			zh: 他们一进城就被这座美丽的城市迷住了。
+			pinyin: Tāmen yī jìn chéng jiù bèi zhè zuò měilì de chéngshì mí zhùle.
+			lPhrases:
+				-
+					en: as soon as they entered the city
+					zh: 一进城就
+					pinyin: yī jìn chéng jiù
+		-
+			en:  Here, the houses were all built with green emeralds.
+			zh: 这里, 房子都是用绿色的翡翠建造的.
+			pinyin: zhèlǐ, fángzi dōu shì yòng lǜsè de fěicuì jiànzào de.
+	-
+		lSentences:
+		-
+			en: They came to the palace and waited for a meeting/n with Oz.
+			zh: 他们来到宫殿，等待与奥兹会议。
+			pinyin: Tāmen lái dào gōng diàn, děngdài yǔ ào zī huìyì.
+	-
+		lSentences:
+		-
+			en:  Oz was willing to help everyone, but he required them to first get rid of the Wicked Witch of the West.
+			zh: 奥兹愿意帮助大家, 不过, 他要求多萝茜他们先摆脱西方恶的巫婆.
+			pinyin: ào zī yuànyì bāngzhù dàjiā, bùguò, tā yāoqiú duō luó xī tāmen xiān bǎituō xīfāng de è wū pó.
+			lPhrases:
+				-
+					en: he required them
+					zh: 他要求他们
+					pinyin: tā yāoqiú tāmen
+				-
+					en: get rid of
+					zh: 摆脱
+					pinyin: bǎi tuō
+		-
+			en: Dorothy agreed .
+			zh: 多萝茜答应了
+			pinyin: duō luó xī dāyìngle.
+	-
+		lSentences:
+		-
+			en: The Wicked Witch of the West knew that they wanted to kill her.
+			zh: 西方恶女巫知道他们要杀了她。
+			pinyin: Xīfāng è nǚwū zhīdào tāmen yào shāle tā.
+		-
+			en: So she sent flying monkeys to catch them.
+			zh: 所以她发送会飞的猴子去抓到它们。
+			pinyin: Suǒyǐ tā fāsòng huì fēi de hóuzi qù zhuā dào tāmen.
+			lPhrases:
+				-
+					en: sent
+					zh: 发送
+					pinyin: fāsòng
+				-
+					en: catch
+					zh: 抓到
+					pinyin: zhuā dào
+	-
+		lSentences:
+		-
+			en: The flying monkeys caught them.
+			zh: 会飞的猴子抓抓到了他们.
+			pinyin: Huì fēi de hóuzi zhuā dàole tāmen.
+		-
+			en: Dorothy became a slave to the Wicked Witch.
+			zh: 多萝西成为恶巫婆的奴隶
+			pinyin: Duō luó xī chéngwéi è wū pó de núlì
+	-
+		lSentences:
+		-
+			en:  One day, the wicked witch stole one of Dorothy's silver shoes.
+			zh: 一天, 恶巫婆偷走了多萝茜的一只银鞋 .
+			pinyin: yītiān, è wū pó tōu zǒule duō luó xī de yì zhī yín xié.
+		-
+			en:  Dorothy was very angry and threw a bucket of water at the wicked witch.
+			zh: 多萝西非常生气，向恶巫婆泼了一桶水。
+			pinyin: Duō luó xī fēicháng shēngqì, xiàng è wū pó pōle yī tǒng shuǐ.
+		-
+			en:  The wicked witch melted unexpectedly.
+			zh: 恶巫婆竟然溶化了.
+			pinyin: è wū pó jìng rán róng huà le.
+	-
+		lSentences:
+		-
+			en:  Dorothy and her friends returned to the Emerald City.
+			zh: 多萝茜和朋友们回到翡翠城.
+			pinyin: duō luó xī hé péngyǒumen huí dào fěicuì chéng.
+		-
+			en:  Oz gave the Scarecrow a brain made of needles and nails.
+			zh: 奥兹用针和钉子做成的脑子给稻草人装上.
+			pinyin: ào zī yòng zhēn hé dīngzi zuò chéng de nǎozi gěi dàocǎorén zhuāng shàng.
+		-
+			en:  He put a silk red heart into the Tin Man's chest.
+			zh: 他给铁皮人的胸口放进一颗丝做的红心.
+			pinyin: tā gěi tiěpí rén de xiōngkǒu fàng jìn yī kē sī zuò de hóngxīn.
+		-
+			en:  He took out a bottle of courage potion and let the Cowardly Lion drink it.
+			zh: 他取出一瓶勇气药水让胆小的狮子喝下.
+			pinyin: Tā qǔchū yī píng yǒngqì yàoshuǐ ràng dǎn xiǎo de shīzi hē xià.
+			lPhrases:
+				-
+					en: took out
+					zh: 取出
+					pinyin: qǔchū
+	-
+		lSentences:
+		-
+			en:  But Oz couldn't send Dorothy home, she was very sad.
+			zh: 可是奥兹没法送多萝茜回家, 她伤心极了.
+			pinyin: Kěshì ào zī méi fǎ sòng duō luó xī huí jiā, tā shāngxīn jíle.
+		-
+			en:  A green man said to Dorothy, "The Good Witch of the South may be able to help you."
+			zh: 一个绿色的人对多萝茜说: "南方的好巫婆也许能帮助你".
+			pinyin: Yīgè lǜsè de rén duì duō luó xī shuō: "Nánfāng de hǎo wū pó yěxǔ néng bāng zhù nǐ".
+			lPhrases:
+				-
+					en: may be able
+					zh: 也许能
+					pinyin: yě xǔ néng
+	-
+		lSentences:
+		-
+			en: The Good Witch of the South said to Dorothy: "Actually, you can go home anytime you want."
+			zh: 南方的好巫婆对多萝西说：“其实，你可以随时回家。”
+			pinyin: Nánfāng de hǎo wū pó duì duō luó xī shuō: “Qíshí, nǐ kěyǐ suíshí huí jiā.”
+			lPhrases:
+				-
+					en: anytime
+					zh: 随时
+					pinyin: suí shí
+		-
+			en: Just bump the heels of your silver shoes together three times."
+			zh: 把你的银鞋跟撞三次。”
+			pinyin: Bǎ nǐ de yín xié gēn zhuàng sāncì.”
+	-
+		lSentences:
+		-
+			en: Dorothy did it, and immediately flew back to Kansas.
+			zh: 多萝西做到了，马上飞回堪萨斯州。
+			pinyin: Duō luó xī zuò dàole, mǎ shàng fēi huí kānsàsī zhōu.

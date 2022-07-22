@@ -1,0 +1,220 @@
+---
+title:
+	en: Sleeping Beauty
+	zh: 睡美人
+	pinyin: Shuì měirén
+author:
+	en: Charles Perrault
+lCharacters:
+	-
+		en: Sleeping Beauty
+		zh: 睡美人
+		pinyin: Shuì měirén
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: A long time ago, a queen gave birth to a princess.
+			lPhrases:
+				-
+					en: gave birth
+					zh: 生
+					pinyin: shēng
+			zh: 很久很久以前, 一位王后生了一个公主.
+			pinyin: Hěnjiǔ hěnjiǔ yǐqián, yī wèi wánghòu shēngle yīgè gōngzhǔ.
+		-
+			en: For this, the king held a banquet.
+			zh: 为此, 国王举行宴会.
+			pinyin: Wèi cǐ, guówáng jǔxíng yànhuì.
+		-
+			en: The wizards all came to bless the princess.
+			zh: 巫师们都来为公主祝福.
+			pinyin: Wūshīmen dōu lái wèi gōngzhǔ zhùfú.
+		-
+			en: A bad witch who was not invited, angrily rushed in.
+			zh: 一位坏巫师没有受到邀请, 气得自己冲了进来.
+			pinyin: Yī wèi huài wūshī méiyǒu shòudào yāoqǐng, qì dé zìjǐ chōngle jìnlái.
+	-
+		lSentences:
+		-
+			en: The bad witch said: "The princess will be stabbed to death by a spindle when she is fifteen."
+			zh: 坏巫师说: "公主会在十五岁时被纺锤刺死."
+			pinyin: Huài wūshī shuō: "Gōngzhǔ huì zài shíwǔ suì shí bèi fǎngchuí cì sǐ."
+		-
+			en: A wizard said: "She will only fall asleep for a hundred years, and a prince will come to rescue her."
+			zh: 一位巫师说: "她只是会昏睡一百年, 会有一位王子来救她."
+			pinyin: Yī wèi wūshī shuō: "Tā zhǐshì huì hūnshuì yībǎi nián, huì yǒuyī wèi wángzǐ lái jiù tā."
+	-
+		lSentences:
+		-
+			en: The king then ordered the burning of all the spindles in the country.
+			zh: 国王于是下令将全国的纺锤都烧毁了.
+			pinyin: Guówáng yúshì xiàlìng jiāng quánguó de fǎngchuí dōu shāohuǐle.
+		-
+			en: The princess grew up; she was very beautiful, smart and kind.
+			lPhrases:
+				-
+					en: grew up
+					zh: 长大
+					pinyin: zhǎng dà
+			zh: 公主长大了, 她十分美丽, 而且聪明, 善良.
+			pinyin: Gōngzhǔ zhǎng dàle, tā shífēn měilì, érqiě cōngmíng, shànliáng.
+	-
+		lSentences:
+		-
+			en: When the princess was fifteen years old, she came to a tall building.
+			zh: 公主十五岁那一天, 来到一座高楼.
+			pinyin: Gōngzhǔ shíwǔ suì nà yītiān, lái dào yīzuò gāolóu.
+		-
+			en: An old woman was spinning there.
+			lPhrases:
+				-
+					en: spinning
+					zh: 纺纱
+					pinyin: fǎng shā
+			zh: 一位老婆婆正在那儿纺线.
+			pinyin: Yī wèi lǎopópo zhèngzài nà'er fǎng xiàn.
+	-
+		lSentences:
+		-
+			en: The princess touched the spindle curiously.
+			zh: 公主好奇地去摸纺锤.
+			pinyin: Gōngzhǔ hàoqí de qù mō fǎngchuí.
+		-
+			en: She immediately fell to the ground and fell asleep.
+			zh: 她刚碰到纺锤便倒在地上睡着了.
+			pinyin: Tā gāng pèng dào fǎngchuí biàn dào zài dìshàng shuìzhaole.
+	-
+		lSentences:
+		-
+			en: The sleeping spell spread.
+			zh: 沉睡的咒语蔓延开来.
+			pinyin: Chénshuì de zhòuyǔ mànyán kāi lái.
+		-
+			en: The old king, the queen, and all the people and animals in the castle fell asleep.
+			zh: 老国王, 王后以及城堡里所有的人和动物都睡着了.
+			pinyin: Lǎo guówáng, wánghòu yǐjí chéngbǎo lǐ suǒyǒu de rén hé dòngwù dōu shuìzhaole.
+	-
+		lSentences:
+		-
+			en: A hundred years passed.
+			zh: 一百年过去了.
+			pinyin: Yībǎi nián guòqùle.
+		-
+			en: A young prince came.
+			zh: 一个年轻的王子来到这里.
+			pinyin: Yīgè niánqīng de wángzǐ lái dào zhèlǐ.
+		-
+			en: He tried to enter the castle to find the sleeping beauty.
+			zh: 他尝试进入城堡寻找睡美人.
+			pinyin: Tā chángshì jìnrù chéngbǎo xúnzhǎo shuì měirén.
+	-
+		lSentences:
+		-
+			en: The prince met a fairy on the road.
+			zh: 王子在路上遇到了一位仙女.
+			pinyin: Wángzǐ zài lùshàng yù dàole yī wèi xiānnǚ.
+		-
+			en: The fairy gave him a sword and a shield.
+			zh: 仙女送给他一把宝剑和一个盾牌.
+			pinyin: Xiānnǚ sòng gěi tā yī bǎ bǎojiàn hé yīgè dùnpái.
+	-
+		lSentences:
+		-
+			en: On the way to the castle, the prince fought with the witch who had come to stop him.
+			zh: 在去城堡的路上, 王子同前来阻止他的巫婆打了起来.
+			pinyin: Zài qù chéngbǎo de lùshàng, wángzǐ tóng qián lái zǔzhǐ tā de wūpó dǎle qǐlái.
+	-
+		lSentences:
+		-
+			en: The witch turned a broom into a flying dragon.
+			zh: 巫婆将扫帚变成一条飞龙.
+			pinyin: Wūpó jiāng sàozhǒu biàn chéng yītiáo fēilóng.
+		-
+			en: When the flying dragon flew toward the prince, the prince's sword gave out a ray of light.
+			lPhrases:
+				-
+					en: a ray of light
+					zh: 一束光
+					pinyin: yī shù guāng
+			zh: 当飞龙向王子飞去时, 王子的宝剑发出一道光.
+			pinyin: Dāng fēilóng xiàng wángzǐ fēi qù shí, wángzǐ de bǎojiàn fāchū yīdào guāng.
+		-
+			en: The flying dragon was too scared to come forward.
+			zh: 飞龙吓得不敢再上前.
+			pinyin: Fēilóng xià dé bù gǎn zài shàng qián.
+	-
+		lSentences:
+		-
+			en: The flying dragon sprayed fire toward the prince.
+			zh: 飞龙向王子喷火.
+			pinyin: Fēilóng xiàng wángzǐ pēn huǒ.
+		-
+			en: The prince raised his shield to block the fire.
+			zh: 王子举起盾牌抵挡.
+			pinyin: Wángzǐ jǔ qǐ dùnpái dǐdǎng.
+		-
+			en: The flames bounced back, burning the witch to death.
+			lPhrases:
+				-
+					en: bounced back
+					zh: 反弹
+					pinyin: fǎn tán
+			zh: 火焰被反弹回去, 把巫婆烧死了.
+			pinyin: Huǒyàn bèi fǎntán huíqù, bǎ wūpó shāo sǐle.
+		-
+			en: The flying dragon also disappeared.
+			zh: 飞龙也消失了.
+			pinyin: Fēilóng yě xiāoshīle.
+	-
+		lSentences:
+		-
+			en: Just then, the rose bush automatically divided, and the prince entered the castle safely.
+			zh: 这时, 玫瑰花丛自动分开了一条路, 王子安全地进入了城堡.
+			pinyin: Zhè shí, méiguī huācóng zìdòng fēnkāile yītiáo lù, wángzǐ ānquán de jìnrùle chéngbǎo.
+		-
+			en: He found that everyone there was asleep.
+			zh: 他发现这里的一切都睡着了.
+			pinyin: Tā fāxiàn zhèlǐ de yīqiè dōu shuìzhele.
+	-
+		lSentences:
+		-
+			en: The prince continued on and found the sleeping beauty.
+			zh: 王子继续往前走, 找到了睡美人.
+			pinyin: Wángzǐ jìxù wǎng qián zǒu, zhǎodàole shuì měirén.
+		-
+			en: She was so beautiful that the prince couldn't help kissing her.
+			lPhrases:
+				-
+					en: couldn't help
+					zh: 忍不住
+					pinyin: rěn bù zhù
+			zh: 她是如此美丽, 王子情不自禁地吻了她.
+			pinyin: Tā shì rúcǐ měilì, wángzǐ qíngbùzìjīn de wěnle tā.
+	-
+		lSentences:
+		-
+			en: Just then, the princess woke up.
+			zh: 这时, 公主醒了.
+			pinyin: Zhè shí, gōngzhǔ xǐngle.
+		-
+			en: The others in the castle also slowly woke up.
+			lPhrases:
+				-
+					en: the others
+					zh: 其他人
+					pinyin: qí tā rén
+			zh: 城堡里的其他人也慢慢转醒.
+			pinyin: Chéngbǎo lǐ de qítā rén yě màn man zhuǎn xǐng.
+		-
+			en: The prince and princess fell in love.
+			zh: 王子和公主坠入爱河.
+			pinyin: Wángzǐ hé gōngzhǔ zhuì rù àihé.
+		-
+			en: They held a grand wedding.
+			zh: 他们举办了一场盛大的婚礼.
+			pinyin: Tāmen jǔbànle yī chǎng shèngdà de hūnlǐ.
+		-
+			en: They lived happily together.
+			zh: 他们幸福地生活在一起.
+			pinyin: Tāmen xìngfú dì shēnghuó zài yīqǐ.

@@ -1,0 +1,261 @@
+---
+title:
+	en: The Emperor's New Clothes
+	zh: 皇帝的新装
+	pinyin: Huángdì de xīnzhuāng
+author:
+	en: Hans Christian Andersen
+lCharacters:
+	-
+		en: The Emperor
+		zh: 皇帝
+		pinyin: Huángdì
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: A long time ago, there was an emperor who liked to wear beautiful clothes very much.
+			zh: 很久很久以前, 有一个非常喜欢穿漂亮衣服的皇帝.
+			pinyin: Hěnjiǔ hěnjiǔ yǐqián, yǒu yīgè fēicháng xǐhuān chuān piàoliang yīfú de huángdì.
+		-
+			en: He changed clothes every hour.
+			zh: 他每小时换一次衣服。
+			pinyin: Tā měi xiǎoshí huàn yīcì yīfú.
+	-
+		lSentences:
+		-
+			en: One day, two crooks came here.
+			zh: 一天, 两个骗子来到了这里.
+			pinyin: Yītiān, liǎng gè piànzi lái dàole zhèlǐ.
+		-
+			en: They said they can make the most beautiful clothes.
+			zh: 他们说他们可以做出最漂亮的衣服。
+			pinyin: Tāmen shuō tāmen kěyǐ zuò chū zuì piàoliang de yīfú.
+		-
+			en: But the material of this dress is very peculiar.
+			zh: 但是这件衣服材料很奇特.
+			pinyin: Dànshì zhè jiàn yīfú cáiliào hěn qítè.
+		-
+			en: A fool can't see these clothes.
+			zh: 傻子看不到这些衣服。
+			pinyin: Shǎzi kàn bù dào zhèxiē yīfú.
+	-
+		lSentences:
+		-
+			en: The emperor immediately gave the two crooks a lot of money to make clothes.
+			zh: 皇帝马上给了这两个骗子很多钱, 让他们做衣服.
+			pinyin: Huángdì mǎ shàng gěile zhè liǎng gè piànzi hěn duō qián, ràng tāmen zuò yīfú.
+			lPhrases:
+				-
+					en: a lot of money
+					zh: 很多钱
+					pinyin: hěn duō qián
+		-
+			en: They set up the loom and pretended to start working.
+			zh: 他们架设好了织布机, 假装开始工作.
+			pinyin: Tāmen jiàshè hǎole zhī bù jī, jiǎzhuāng kāishǐ gōngzuò.
+			lPhrases:
+				-
+					en: set up
+					zh: 架设好了
+					pinyin: jià shè hǎo le
+		-
+			en: Actually, there was nothing on the loom.
+			zh: 其实, 织布机上什么东西都没有.
+			pinyin: Qí shí, zhī bù jīshàng shénme dōngxī dōu méiyǒu.
+	-
+		lSentences:
+		-
+			en: Soon, the emperor sent his most loyal minister to learn about the situation.
+			zh: 很快，皇帝派遣了他最忠诚的大臣去了解情况。
+			pinyin: Hěn kuài, huángdì pài qiǎn le tā zuì zhōngchéng de dàchén qù liǎojiě qíngkuàng.
+			lPhrases:
+				-
+					en: sent
+					zh: 派遣了
+					pinyin: pài qiǎn le
+				-
+					en: learn about
+					zh: 了解
+					pinyin: liǎo jiě
+		-
+			en: The minister saw nothing.
+			zh: 这位大臣什么也没看到.
+			pinyin: Zhè wèi dàchén shénme yě méi kàn dào.
+	-
+		lSentences:
+		-
+			en: The minister was afraid that others would see his stupidity.
+			zh: 这位大臣害怕别人看出他的愚蠢.
+			pinyin: Zhè wèi dàchén hàipà biérén kàn chū tā de yú chǔn.
+			lPhrases:
+				-
+					en: others
+					zh: 别人
+					pinyin: biérén
+		-
+			en: So he pretended to see the beautiful cloth.
+			zh: 所以假装看到了美丽的布匹.
+			pinyin: Suǒ yǐ jiǎ zhuāng kàn dàole měilì de bùpǐ.
+		-
+			en: He reported to the emperor according to the liar's words.
+			zh: 他按照骗子的话向皇帝作了汇报.
+			pinyin: Tā ànzhào piànzi dehuà xiàng huángdì zuòle huìbào.
+			lPhrases:
+				-
+					en: according to
+					zh: 按照
+					pinyin: àn zhào
+	-
+		lSentences:
+		-
+			en: A few days passed, and the emperor wanted to see it too.
+			zh: 几天过去了, 皇帝也想去看看.
+			pinyin: Jǐ tiān guòqùle, huángdì yě xiǎng qù kàn kàn.
+			lPhrases:
+				-
+					en: a few days passed
+					zh: 几天过去了
+					pinyin: Jǐ tiān guòqùle
+		-
+			en: So together with a group of ministers he came to the crooks' place.
+			zh: 所以和一群大臣一起来到骗子的地方.
+			pinyin: Suǒyǐ hé yīqún dàchén yī qǐlái dào piànzi de dìfāng.
+	-
+		lSentences:
+		-
+			en: The two crooks invited the emperor to come closer.
+			zh: 两个骗子邀请皇帝 走近一点儿.
+			pinyin: Liǎng gè piànzi yāoqǐng huángdì zǒu jìn yīdiǎr.
+		-
+			en: They asked him if the cloth was beautiful.
+			zh: 他们问他这布是不是漂亮。
+			pinyin: Tāmen wèn tā zhè bù shì bùshì piàoliang.
+	-
+		lSentences:
+		-
+			en: The emperor tried to open his eyes more.
+			zh: 皇帝努力睁大眼睛。
+			pinyin: Huángdì nǔlì zhēng dà yǎnjīng.
+			lPhrases:
+				-
+					en: tried
+					zh: 努力
+					pinyin: nǔ lì
+		-
+			en: But he couldn't see anything.
+			zh: 但是他看不到任何东西.
+			pinyin: Dànshì tā kàn bù dào rènhé dōngxī.
+			lPhrases:
+				-
+					en: anything
+					zh: 任何东西
+					pinyin: rènhé dōngxī
+		-
+			en: He was afraid that others would see his stupidity and pretended that he saw it.
+			zh: 他害怕别人看出自己的愚蠢, 假装说自己看见了.
+			pinyin: Tā hàipà biérén kàn chū zìjǐ de yúchǔn, jiǎzhuāng shuō zìjǐ kànjiànle.
+	-
+		lSentences:
+		-
+			en: A minister said: "If the emperor wears clothes made of this material in tomorrow's parade, it would be great!"
+			zh: 一位大臣说：“如果皇帝在明天的游行穿着这种材料制成的衣服，那就太好了！”
+			pinyin: Yī wèi dàchén shuō:“Rúguǒ huángdì zài míngtiān de yóuxíng chuān zhè zhǒng cáiliào zhì chéng de yīfú, nà jiù tài hǎole!”
+	-
+		lSentences:
+		-
+			en: The two crooks continued to work overnight.
+			zh: 两个骗子继续通宵工作.
+			pinyin: Liǎng gè piànzi jìxù tōngxiāo gōngzuò.
+		-
+			en: Everyone thought they were busy finishing the emperor's new clothes.
+			zh: 每个人都认为他们在忙着完成皇帝的新衣服.
+			pinyin: Měi gèrén dōu rènwéi tāmen zài mángzhe wánchéng huángdì de xīn yī fu.
+			lPhrases:
+				-
+					en: busy
+					zh: 忙着
+					pinyin: máng zhe
+				-
+					en: finishing
+					zh: 完成
+					pinyin: wán chéng
+	-
+		lSentences:
+		-
+			en: The next day, they pretended to take the clothes off the loom.
+			zh: 第二天, 他们假装从织布机上拿下衣服.
+			pinyin: Dì èr tiān, tāmen jiǎzhuāng cóng zhī bù jī shàng ná xià yīfú.
+		-
+			en: The emperor came, and the two crooks raised their arms as if they were holding something in their hands.
+			zh: 皇帝来了, 两个骗子举起手臂, 好像手里举着什么东西.
+			pinyin: Huángdì láile, liǎng gè piànzi jǔ qǐ shǒubì, hǎoxiàng shǒu lǐ jǔzhe shénme dōngxī.
+			lPhrases:
+				-
+					en: raised their arms
+					zh: 举起手臂
+					pinyin: jǔ qǐ shǒubì
+				-
+					en: as if
+					zh: 好像
+					pinyin: hǎo xiàng
+				-
+					en: holding
+					zh: 举着
+					pinyin: jǔ zhe
+	-
+		lSentences:
+		-
+			en: "Your Majesty, can you take off your clothes?", the crooks said.
+			zh: "尊敬的陛下, 您能脱掉您的衣服吗?", 骗子说.
+			pinyin: "Zūnjìng de bìxià, nín néng tuō diào nín de yīfú ma?", Piànzi shuō.
+			lPhrases:
+				-
+					en: your majesty
+					zh: 尊敬的陛下
+					pinyin: zūn jìng de bì xià
+				-
+					en: take off
+					zh: 脱掉
+					pinyin: tuō diào
+		-
+			en: The emperor took off all his clothes.
+			zh: 皇帝脱掉了所有的衣服.
+			pinyin: Huángdì tuō diàole suǒyǒu de yīfú.
+		-
+			en: The crooks pretended to help him get dressed.
+			zh: 骗子假装帮他穿衣服。
+			pinyin: Piànzi jiǎzhuāng bāng tā chuān yīfú.
+	-
+		lSentences:
+		-
+			en: The parade celebration began.
+			zh: 游行典礼开始了.
+			pinyin: Yóuxíng diǎn lǐ kāishǐle.
+		-
+			en: The emperor walked in front of the parade.
+			zh: 皇帝走在游行前面.
+			pinyin: Huángdì zǒu zài yóuxíng qiánmiàn.
+			lPhrases:
+				-
+					en: in front of
+					zh: 前面
+					pinyin: qián miàn
+		-
+			en: Everyone said: "Oh my God, the emperor's new clothes are really beautiful."
+			zh: 所有的人都说: "天啊, 皇帝的新衣服真的很漂亮."
+			pinyin: Suǒyǒu de rén dōu shuō: "Tiān a, huángdì de xīn yīfú zhēn de hěn piàoliang."
+		-
+			en: "But he isn't wearing anything," a child said suddenly.
+			zh: "但是他什么都没穿啊", 一个小孩子突然说.
+			pinyin: "Dànshì tā shénme dōu méi chuān a", yīgè xiǎo háizi túrán shuō.
+	-
+		lSentences:
+		-
+			en: Finally, everyone said: "He isn't wearing anything."
+			zh: 最后每个人都说: "他什么都没穿啊."
+			pinyin: Zuìhòu měi gèrén dōu shuō: "Tā shénme dōu méi chuān a."
+		-
+			en: The emperor was very embarrassed.
+			zh: 皇帝非常尴尬。
+			pinyin: Huángdì fēicháng gāngà.

@@ -1,0 +1,215 @@
+---
+title:
+	en: The Little Match Girl
+	zh: 卖火柴的小女孩
+	pinyin: Mài huǒchái de xiǎo nǚhái
+author:
+	en: Hans Christian Andersen
+lCharacters:
+	-
+		en: The Little Match Girl
+		zh: 小女孩
+		pinyin: Xiǎo nǚhái
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: On Christmas Eve, there was a snowstorm.
+			zh: 平安夜, 有暴风雪.
+			pinyin: Píng'ān yè, yǒu bàofēngxuě.
+			lPhrases:
+				-
+					en: Christmas Eve
+					zh: 平安夜
+					pinyin: píng'ān yè
+				-
+					en: snowstorm
+					zh: 暴风雪
+					pinyin: bàofēngxuě
+		-
+			en: A poor little girl was walking on the cold and dark street.
+			zh: 一个可怜的小女孩走在又冷又黑的街道上.
+			pinyin: Yīgè kělián de xiǎo nǚhái zǒu zài yòu lěng yòu hēi de jiēdào shàng.
+	-
+		lSentences:
+		-
+			en: Her shoes were too big.
+			zh: 她的鞋子太大了.
+			pinyin: Tā de xiézi tài dàle.
+		-
+			en: A shoe was lost when crossing the road.
+			zh: 一只鞋子在过马路的时候丢了.
+			pinyin: Yī zhī xiézi zàiguò mǎlù de shíhòu diūle.
+		-
+			en: The other shoe was taken away by a boy.
+			zh: 另一只鞋子被一个男孩拿跑了.
+			pinyin: Lìng yī zhī xiézi bèi yīgè nánhái ná pǎole.
+			lPhrases:
+				-
+					en: taken away
+					zh: 拿跑了
+					pinyin: ná pǎole
+	-
+		lSentences:
+		-
+			en: A whole day passed, but still no one bought her matches.
+			zh: 过了一整天, 还没有一个人买过她的火柴.
+			pinyin: Guòle yī zhěng tiān, hái méiyǒu yīgè rén mǎiguò tā de huǒchái.
+			lPhrases:
+				-
+					en: A whole day
+					zh: 一整天
+					pinyin: yī zhěng tiān
+		-
+			en: She sat down on a corner and curled up.
+			zh: 她在一个墙角坐下, 蜷缩起来.
+			pinyin: Tā zài yīgè qiángjiǎo zuòxià, quánsuō qǐlái.
+			lPhrases:
+				-
+					en: corner
+					zh: 墙角
+					pinyin: qiángjiǎo
+				-
+					en: sat down
+					zh: 坐下
+					pinyin: zuòxià
+				-
+					en: curled up
+					zh: 蜷缩起来
+					pinyin: quánsuō qǐlái
+	-
+		lSentences:
+		-
+			en: It was too cold, so the little girl struck a match.
+			zh: 天气太冷了, 小女孩划燃了一根火柴.
+			pinyin: Tiānqì tài lěngle, xiǎo nǚhái huà ránle yī gēn huǒchái.
+			lPhrases:
+				-
+					en: struck a match
+					zh: 划燃了一根火柴
+					pinyin: huà ránle yī gēn huǒchái
+	-
+		lSentences:
+		-
+			en: The little girl felt as if she was sitting beside a warm stove.
+			zh: 小女孩觉得仿佛自己正坐在一个温暖的火炉旁.
+			pinyin: Xiǎo nǚhái juédé fǎngfú zìjǐ zhèng zuò zài yīgè wēnnuǎn de huǒlú páng.
+			lPhrases:
+				-
+					en: felt as if
+					zh: 觉得仿佛
+					pinyin: juédé fǎngfú
+	-
+		lSentences:
+		-
+			en: But after a while the vision disappeared.
+			zh: 但是过了一会儿，那异象消失了。
+			pinyin: Dànshì guòle yīhuǐ'er, nà yì xiàng xiāoshīle.
+			lPhrases:
+				en: the vision
+				zh: 那异象
+				pinyin: nà yì xiàng
+	-
+		lSentences:
+		-
+			en: The little girl struck another match.
+			zh: 小女孩又划燃了一根火柴.
+			pinyin: Xiǎo nǚhái yòu huà ránle yī gēn huǒchái.
+		-
+			en: In the fire light the wall turned into a room.
+			zh: 在火光中，墙变成了一个房间。
+			pinyin: Zài huǒguāng zhōng, qiáng biàn chéngle yīgè fángjiān.
+			lPhrases:
+				-
+					en: turned into
+					zh: 变成了
+					pinyin: biàn chéng le
+		-
+			en: She saw a lot of food on the table in the room.
+			zh: 她看见房间里的桌子上很多食物.
+			pinyin: Tā kànjiàn fángjiān lǐ de zhuō zi shàng hěnduō shíwù.
+	-
+		lSentences:
+		-
+			en: Strangely, a roasted goose jumped off the plate and walked toward her.
+			zh: 奇怪的是, 一只烤鹅从盘子上跳下来, 向她走来.
+			pinyin: Qíguài de shì, yī zhī kǎo é cóng pánzi shàng tiào xiàlái, xiàng tā zǒu lái.
+		-
+			en: At this moment, the match went out again.
+			zh: 就在这个时候, 火柴又熄灭了.
+			pinyin: Jiù zài zhège shíhòu, huǒchái yòu xímièle.
+	-
+		lSentences:
+		-
+			en: The little girl struck another match.
+			zh: 小女孩又划燃了一根火柴.
+			pinyin: Xiǎo nǚhái yòu huà ránle yī gēn huǒchái.
+		-
+			en: This time, what appeared was a Christmas tree with presents under it.
+			zh: 这一次，出现的是一棵圣诞树，下面放着礼物。
+			pinyin: Zhè yīcì, chūxiàn de shì yī kē shèngdànshù, xiàmiàn fàngzhe lǐwù.
+	-
+		lSentences:
+		-
+			en: The little girl stretched out her hand to touch the gifts and the match went out!
+			zh: 小女孩刚伸出小手想摸摸那些礼物, 火柴熄灭了!
+			pinyin: Xiǎo nǚhái gāng shēn chū xiǎoshǒu xiǎng mō mō nàxiē lǐwù, huǒchái xímièle!
+			lPhrases:
+				-
+					en: stretched out
+					zh: 伸出
+					pinyin: shēn chū
+				-
+					en: the match went out
+					zh: 火柴熄灭了
+					pinyin: huǒchái xímièle
+	-
+		lSentences:
+		-
+			en: A shooting star crossed the night sky, leaving a long red light.
+			zh: 一颗流星划过了夜空，留下一道长长的红光。
+			pinyin: Yī kē liúxīng huàguòle yèkōng, liú xià yīdào cháng zhǎng de hóng guāng.
+			lPhrases:
+				-
+					en: shooting star
+					zh: 流星
+					pinyin: liú xīng
+				-
+					en: crossed
+					zh: 划过了
+					pinyin: huàguòle
+		-
+			en: The little girl's grandma told her that when a star falls from the sky, a soul rises to heaven from the earth.
+			zh: 小女孩的奶奶告诉她，当一颗星星从天上掉下来的时候，一个灵魂从地上升到了天堂。
+			pinyin: Xiǎo nǚhái de nǎinai gàosù tā, dāng yī kē xīngxīng cóng tiānshàng diào xiàlái de shíhòu, yīgè línghún cóng dì shàng shēngdàole tiāntáng.
+	-
+		lSentences:
+		-
+			en: She struck another match.
+			zh: 她又划燃了一根火柴.
+			pinyin: Tā yòu huà ránle yī gēn huǒchái.
+		-
+			en: This time, grandma appeared in the light.
+			zh: 这一次, 奶奶出现在亮光里.
+			pinyin: Zhè yīcì, nǎinai chūxiàn zài liàngguāng lǐ.
+	-
+		lSentences:
+		-
+			en: She quickly struck all the matches.
+			zh: 她很快划燃了所有的火柴.
+			pinyin: Tā hěn kuài huà ránle suǒyǒu de huǒchái.
+		-
+			en: So grandma took her in her arms.
+			zh: 所以奶奶把她抱在了怀里.
+			pinyin: Suǒyǐ nǎinai bǎ tā bào zàile huái lǐ.
+			lPhrases:
+				-
+					en: in her arms
+					zh: 怀里
+					pinyin: huái lǐ
+	-
+		lSentences:
+		-
+			en: The next morning, people found the little girl still smiling, but she had died.
+			zh: 第二天早上, 人们发现小女孩的嘴角还露着微笑, 但是她已经死了.
+			pinyin: Dì èr tiān zǎoshang, rénmen fāxiàn xiǎo nǚhái de zuǐjiǎo hái lùzhe wéixiào, dànshì tā yǐjīng sǐle.

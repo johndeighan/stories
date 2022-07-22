@@ -1,0 +1,104 @@
+---
+-
+	title: The Little Match Girl
+	file: _match.taml
+	complexity: 78
+	finished: true
+-
+	title: The Wolf and Seven Lambs
+	file: _wolf.taml
+	complexity: 147
+	finished: true
+-
+	title: Thumbelina
+	file: _thumbelina.taml
+	complexity: 120
+	finished: true
+-
+	title: Pinocchio
+	file: _pinocchio.taml
+	complexity: 113
+	finished: true
+
+
+
+-
+	title: Snow White
+	file: _snow_white.taml
+	complexity: 107
+	finished: false
+-
+	title: Three Little Pigs
+	file: _pigs.taml
+	complexity: 109
+	finished: false
+-
+	title: The Emperor's New Clothes
+	file: _emperor.taml
+	complexity: 112
+	finished: false
+-
+	title: Little Red Riding Hood
+	file: _riding_hood.taml
+	complexity: 113
+	finished: false
+-
+	title: Cinderella
+	file: _cinderella.taml
+	complexity: 119
+	finished: false
+-
+	title: The Ugly Duckling
+	file: _ugly.taml
+	complexity: 122
+	finished: false
+-
+	title: Rapunzel
+	file: _rapunzel.taml
+	complexity: 125
+	finished: false
+-
+	title: The Wizard of Oz
+	file: _oz.taml
+	complexity: 138
+	finished: false
+-
+	title: The Little Mermaid
+	file: _mermaid.taml
+	complexity: 137
+	finished: false
+-
+	title: The Frog Prince
+	file: _frog.taml
+	complexity: 139
+	finished: false
+-
+	title: Ali Baba and the Forty Thieves
+	file: _alibaba.taml
+	complexity: 142
+	finished: false
+-
+	title: Beauty and the Beast
+	file: _beauty_and_beast.taml
+	complexity: 150
+	finished: false
+-
+	title: The Happy Prince
+	file: _happy_prince.taml
+	complexity: 159
+	finished: false
+-
+	title: The Story of the Fisherman and the Goldfish
+	file: _fisherman.taml
+	complexity: 105
+	finished: false
+-
+	title: Aladdin and the magic lamp
+	file: _aladdin.taml
+	complexity: 92
+	finished: false
+-
+	title: Sleeping Beauty
+	file: _sleeping_beauty.taml
+	complexity: 130
+	finished: false

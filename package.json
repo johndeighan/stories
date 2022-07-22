@@ -1,0 +1,27 @@
+{
+	"name": "@jdeighan/stories",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "Build stories for language learning",
+	"main": "index.js",
+	"exports": {
+		"./mapper": "./src/StoryMapper.js",
+		"./trans": "./src/Translator.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"start": "cls && coffee -c . && node ./src/buildStories.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Chinese",
+		"CoffeeScript"
+	],
+	"author": "John Deighan",
+	"license": "MIT",
+	"dependencies": {
+		"@jdeighan/coffee-utils": "^7.0.41",
+		"@jdeighan/mapper": "^14.0.5",
+		"@jdeighan/unit-tester": "^2.0.0"
+	}
+}
