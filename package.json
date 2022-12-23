@@ -5,7 +5,9 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
-		"preview": "vite preview"
+		"preview": "vite preview",
+		"deploy": "npm run build && surge ./build --domain https://jd-stories.surge.sh"
+
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^1.0.0",
