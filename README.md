@@ -250,3 +250,62 @@ Internet in your browser to see the changes made.
 Creating a layout
 =================
 
+A file named +layout.svelte in the src/routes/ folder will act
+as a layout file. That is, when you visit a page like your
+'about' page, the page
++layout.svelte will actually be served, but on that page there
+is an HTML `<slot/>` element and that is where the contents of
+`about/+page.svelte` will be placed. So, first, create this page
+`src/routes/+layout.svelte`:
+
+```html
+<svelte:head>
+	<title>Stories</title>
+</svelte:head>
+
+<nav>
+	<a href="/">Home</a>
+	<a href="/About">About</a>
+	<a href="/Help">Help</a>
+</nav>
+
+<main>
+  <slot/>
+</main>
+
+<footer>
+	Built with SvelteKit!
+</footer>
+```
+
+**NOTE:** The `<svelte:head>` section adds items to the web page's
+`<head>` section, which is defined in the file `src/app.html`. But
+it's best to not edit that file directly. Then 2 parts of the
+layout are defined: 1) a menu, 2) the main section, in which the
+`<slot/>` element will be replaced by the contents of the
+`+page.svelte` file being displayed, and 3) a footer.
+
+Next, since you now have a layout file containing your main menu,
+you should remove the menu from your `src/routes/+page.svelte` file,
+which should now just contain:
+
+```svelte
+<h1>Stories</h1>
+<p>Stories will be listed here</p>
+```
+
+Now, look at your web site. You should see your header and
+footer, from the layout file, with the requested page's
+contents placed in between. You can switch between your Home,
+About and Help pages with the menu and footer always appearing.
+
+You should not commit your code to git and deploy the new version
+of your app:
+
+```bash
+$ git add -A
+$ git commit -m "add a layout file"
+$ npm run deploy
+```
+
+
